@@ -1,4 +1,4 @@
-package com.example.cloudflare_ai_example
+package tech.manangandhi.cloudflare_ai_example
 
 import io.flutter.embedding.android.FlutterActivity
 

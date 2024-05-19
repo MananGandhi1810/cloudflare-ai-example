@@ -1,16 +1,24 @@
-# cloudflare_ai_example
+# AI Image Generator
 
-A new Flutter project.
+This is a simple AI image generator, using Cloudflare Workers AI API.
 
-## Getting Started
+## How to use
 
-This project is a starting point for a Flutter application.
+1. Clone this repository
 
-A few resources to get you started if this is your first Flutter project:
+````bash
+git clone https://github.com/MananGandhi1810/cloudflare-ai-image-gen
+2. Install the dependencies
+```bash
+flutter pub get
+````
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Run the app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run
+```
+
+## Demo
+
+![demo](./Demo.gif)

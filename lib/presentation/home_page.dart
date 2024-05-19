@@ -13,8 +13,8 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   final TextEditingController _promptController = TextEditingController();
   TextToImageModel model = TextToImageModel(
-    accountId: "Your Account ID",
-    apiKey: "Your API Key",
+    accountId: "",
+    apiKey: "",
     model: TextToImageModels.DREAMSHAPER_8_LCM,
   );
   Uint8List? image;
