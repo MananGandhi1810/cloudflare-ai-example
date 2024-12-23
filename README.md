@@ -6,17 +6,20 @@ This is a simple AI image generator, using Cloudflare Workers AI API.
 
 1. Clone this repository
 
-````bash
-git clone https://github.com/MananGandhi1810/cloudflare-ai-image-gen
+```terminal
+$ git clone https://github.com/MananGandhi1810/cloudflare-ai-image-gen
+```
+
 2. Install the dependencies
-```bash
-flutter pub get
+
+```terminal
+$ flutter pub get
 ````
 
 3. Run the app
 
-```bash
-flutter run
+```terminal
+$ flutter run
 ```
 
 ## Demo
